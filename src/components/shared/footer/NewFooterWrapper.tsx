@@ -36,7 +36,7 @@ const FooterWrapper = async () => {
   }
 
   return (
-    <footer className={`bg-lightBlack text-white`}>
+    <footer className={`bg-lightBlack text-white mt-12`}>
       <div
         className="w-full h-full lg:py-20"
         // style={{
@@ -51,13 +51,15 @@ const FooterWrapper = async () => {
       <div className="text-center bg-primary py-4">
         <div className="container mx-auto">
           <p>
-          {locale==='en'?'Contact us for any issue on this':'تواصل معنا بخصوص أي مشكلة على هذا'}{' '}
+            {locale === 'en'
+              ? 'Contact us for any issue on this'
+              : 'تواصل معنا بخصوص أي مشكلة على هذا'}{' '}
             <a
               className="underline"
               href="https://docs.google.com/forms/d/e/1FAIpQLSfidOzLxXc0Lf6WHrwymKnv6jMsojWGZu3M-Dn2Z9LLOkFt4w/viewform?usp=sf_link"
               target="_blank"
             >
-              {locale==='en'?'link':'الرابط'}{' '}
+              {locale === 'en' ? 'link' : 'الرابط'}{' '}
             </a>
           </p>
         </div>
