@@ -1,0 +1,1650 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "attributes": {
+        "title": "About",
+        "createdAt": "2023-12-21T13:48:07.923Z",
+        "updatedAt": "2024-01-29T12:22:10.764Z",
+        "publishedAt": "2023-12-21T13:49:25.345Z",
+        "locale": "en",
+        "slug": "about",
+        "category": "global",
+        "sidebar": true,
+        "seo": null,
+        "Content": [
+          {
+            "id": 1,
+            "__component": "pcomp.inner-hero",
+            "title": "About Zewail City",
+            "image": {
+              "data": {
+                "id": 16,
+                "attributes": {
+                  "name": "kenny-eliason-zFSo6bnZJTw-unsplash.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 1920,
+                  "height": 1195,
+                  "formats": {
+                    "large": {
+                      "ext": ".jpg",
+                      "url": "/uploads/large_kenny_eliason_z_F_So6bn_ZJ_Tw_unsplash_53a707ae54.jpg",
+                      "hash": "large_kenny_eliason_z_F_So6bn_ZJ_Tw_unsplash_53a707ae54",
+                      "mime": "image/jpeg",
+                      "name": "large_kenny-eliason-zFSo6bnZJTw-unsplash.jpg",
+                      "path": null,
+                      "size": 78.8,
+                      "width": 1000,
+                      "height": 622
+                    },
+                    "small": {
+                      "ext": ".jpg",
+                      "url": "/uploads/small_kenny_eliason_z_F_So6bn_ZJ_Tw_unsplash_53a707ae54.jpg",
+                      "hash": "small_kenny_eliason_z_F_So6bn_ZJ_Tw_unsplash_53a707ae54",
+                      "mime": "image/jpeg",
+                      "name": "small_kenny-eliason-zFSo6bnZJTw-unsplash.jpg",
+                      "path": null,
+                      "size": 28.67,
+                      "width": 500,
+                      "height": 311
+                    },
+                    "medium": {
+                      "ext": ".jpg",
+                      "url": "/uploads/medium_kenny_eliason_z_F_So6bn_ZJ_Tw_unsplash_53a707ae54.jpg",
+                      "hash": "medium_kenny_eliason_z_F_So6bn_ZJ_Tw_unsplash_53a707ae54",
+                      "mime": "image/jpeg",
+                      "name": "medium_kenny-eliason-zFSo6bnZJTw-unsplash.jpg",
+                      "path": null,
+                      "size": 51.91,
+                      "width": 750,
+                      "height": 467
+                    },
+                    "thumbnail": {
+                      "ext": ".jpg",
+                      "url": "/uploads/thumbnail_kenny_eliason_z_F_So6bn_ZJ_Tw_unsplash_53a707ae54.jpg",
+                      "hash": "thumbnail_kenny_eliason_z_F_So6bn_ZJ_Tw_unsplash_53a707ae54",
+                      "mime": "image/jpeg",
+                      "name": "thumbnail_kenny-eliason-zFSo6bnZJTw-unsplash.jpg",
+                      "path": null,
+                      "size": 9.94,
+                      "width": 245,
+                      "height": 152
+                    }
+                  },
+                  "hash": "kenny_eliason_z_F_So6bn_ZJ_Tw_unsplash_53a707ae54",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 247.92,
+                  "url": "/uploads/kenny_eliason_z_F_So6bn_ZJ_Tw_unsplash_53a707ae54.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-12-28T08:19:20.984Z",
+                  "updatedAt": "2023-12-28T08:19:20.984Z"
+                }
+              }
+            },
+            "logo": {
+              "data": {
+                "id": 3,
+                "attributes": {
+                  "name": "mini_logo.png",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 1748,
+                  "height": 1384,
+                  "formats": {
+                    "large": {
+                      "ext": ".png",
+                      "url": "/uploads/large_mini_logo_e57c2a3adc.png",
+                      "hash": "large_mini_logo_e57c2a3adc",
+                      "mime": "image/png",
+                      "name": "large_mini_logo.png",
+                      "path": null,
+                      "size": 78.02,
+                      "width": 1000,
+                      "height": 792
+                    },
+                    "small": {
+                      "ext": ".png",
+                      "url": "/uploads/small_mini_logo_e57c2a3adc.png",
+                      "hash": "small_mini_logo_e57c2a3adc",
+                      "mime": "image/png",
+                      "name": "small_mini_logo.png",
+                      "path": null,
+                      "size": 33.58,
+                      "width": 500,
+                      "height": 396
+                    },
+                    "medium": {
+                      "ext": ".png",
+                      "url": "/uploads/medium_mini_logo_e57c2a3adc.png",
+                      "hash": "medium_mini_logo_e57c2a3adc",
+                      "mime": "image/png",
+                      "name": "medium_mini_logo.png",
+                      "path": null,
+                      "size": 55.02,
+                      "width": 750,
+                      "height": 594
+                    },
+                    "thumbnail": {
+                      "ext": ".png",
+                      "url": "/uploads/thumbnail_mini_logo_e57c2a3adc.png",
+                      "hash": "thumbnail_mini_logo_e57c2a3adc",
+                      "mime": "image/png",
+                      "name": "thumbnail_mini_logo.png",
+                      "path": null,
+                      "size": 10.55,
+                      "width": 197,
+                      "height": 156
+                    }
+                  },
+                  "hash": "mini_logo_e57c2a3adc",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "size": 36.53,
+                  "url": "/uploads/mini_logo_e57c2a3adc.png",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-12-21T08:21:18.793Z",
+                  "updatedAt": "2023-12-21T08:21:24.609Z"
+                }
+              }
+            }
+          },
+          {
+            "id": 1,
+            "__component": "pcomp.title-and-desc",
+            "title": "About Zewail City",
+            "description": "Zewail City of Science , Technology and Innovation is a nonprofit, independent institution of learning, research and innovation. The cornerstone of Zewail City of Science and Technology was laid on January 1, 2000. After many delays in the City’s establishment, the January 25 revolution in 2011 led to the revival of the initiative, late Dr. Zewail was asked by the Egyptian government to form the Supreme Advisory Board and re-launch the initiative on its original site. On May 11, 2011 the Cabinet of Ministers issued a decree to establish the National Project for Scientific Renaissance, and named it Zewail City of Science and Technology. The City was officially inaugurated on November 1, 2011. The final legal status was established when the City was granted law 161, issued on December 20, 2012. This law outlines the City’s aims and constituents, as well as its financial and ",
+            "buttonLink": {
+              "data": {
+                "id": 83,
+                "attributes": {
+                  "title": "About",
+                  "slug": "about",
+                  "createdAt": "2024-01-21T14:28:15.857Z",
+                  "updatedAt": "2024-01-29T12:22:10.851Z"
+                }
+              }
+            }
+          },
+          {
+            "id": 1,
+            "__component": "pcomp.info-banner",
+            "title": "City Structure",
+            "description": "Zewail City of Science and Technology and Innovation serves our society through preparation of young generations capable of thinking critically, creatively and mastering basic science. It is through strong interactions and harmony between the University of Science and Technology, the Research Institutes, and the Technology Valley that our mission can be fulfilled to the best possible extent. Throughout the years, Zewail City steps forward towards realizing the dream of Dr. Ahmed Zewail, in becoming a beacon",
+            "image": {
+              "data": {
+                "id": 17,
+                "attributes": {
+                  "name": "1666837276973_Ralf-Alfred-low.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 1050,
+                  "height": 700,
+                  "formats": {
+                    "large": {
+                      "ext": ".jpg",
+                      "url": "/uploads/large_1666837276973_Ralf_Alfred_low_63a7127c35.jpg",
+                      "hash": "large_1666837276973_Ralf_Alfred_low_63a7127c35",
+                      "mime": "image/jpeg",
+                      "name": "large_1666837276973_Ralf-Alfred-low.jpg",
+                      "path": null,
+                      "size": 101.62,
+                      "width": 1000,
+                      "height": 667
+                    },
+                    "small": {
+                      "ext": ".jpg",
+                      "url": "/uploads/small_1666837276973_Ralf_Alfred_low_63a7127c35.jpg",
+                      "hash": "small_1666837276973_Ralf_Alfred_low_63a7127c35",
+                      "mime": "image/jpeg",
+                      "name": "small_1666837276973_Ralf-Alfred-low.jpg",
+                      "path": null,
+                      "size": 34.46,
+                      "width": 500,
+                      "height": 333
+                    },
+                    "medium": {
+                      "ext": ".jpg",
+                      "url": "/uploads/medium_1666837276973_Ralf_Alfred_low_63a7127c35.jpg",
+                      "hash": "medium_1666837276973_Ralf_Alfred_low_63a7127c35",
+                      "mime": "image/jpeg",
+                      "name": "medium_1666837276973_Ralf-Alfred-low.jpg",
+                      "path": null,
+                      "size": 65.89,
+                      "width": 750,
+                      "height": 500
+                    },
+                    "thumbnail": {
+                      "ext": ".jpg",
+                      "url": "/uploads/thumbnail_1666837276973_Ralf_Alfred_low_63a7127c35.jpg",
+                      "hash": "thumbnail_1666837276973_Ralf_Alfred_low_63a7127c35",
+                      "mime": "image/jpeg",
+                      "name": "thumbnail_1666837276973_Ralf-Alfred-low.jpg",
+                      "path": null,
+                      "size": 9.54,
+                      "width": 234,
+                      "height": 156
+                    }
+                  },
+                  "hash": "1666837276973_Ralf_Alfred_low_63a7127c35",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 96.71,
+                  "url": "/uploads/1666837276973_Ralf_Alfred_low_63a7127c35.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-12-28T08:22:49.810Z",
+                  "updatedAt": "2023-12-28T08:22:49.810Z"
+                }
+              }
+            },
+            "button": {
+              "id": 19,
+              "theme": "contained",
+              "link": {
+                "id": 20,
+                "label": "read more",
+                "target": {
+                  "data": {
+                    "id": 84,
+                    "attributes": {
+                      "title": "Home",
+                      "slug": "home",
+                      "createdAt": "2024-01-21T14:28:35.950Z",
+                      "updatedAt": "2024-01-28T11:10:58.552Z"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "id": 1,
+            "__component": "pcomp.titles-boxes",
+            "iconBoxes": [
+              {
+                "id": 3,
+                "title": "LEADERSHIP",
+                "iconBox": [
+                  {
+                    "id": 5,
+                    "title": "Board of Trustees",
+                    "icon": {
+                      "data": {
+                        "id": 21,
+                        "attributes": {
+                          "name": "CoffeeDoddle.png",
+                          "alternativeText": null,
+                          "caption": null,
+                          "width": 1024,
+                          "height": 768,
+                          "formats": {
+                            "large": {
+                              "ext": ".png",
+                              "url": "/uploads/large_Coffee_Doddle_5af895a8f4.png",
+                              "hash": "large_Coffee_Doddle_5af895a8f4",
+                              "mime": "image/png",
+                              "name": "large_CoffeeDoddle.png",
+                              "path": null,
+                              "size": 142.87,
+                              "width": 1000,
+                              "height": 750
+                            },
+                            "small": {
+                              "ext": ".png",
+                              "url": "/uploads/small_Coffee_Doddle_5af895a8f4.png",
+                              "hash": "small_Coffee_Doddle_5af895a8f4",
+                              "mime": "image/png",
+                              "name": "small_CoffeeDoddle.png",
+                              "path": null,
+                              "size": 59.08,
+                              "width": 500,
+                              "height": 375
+                            },
+                            "medium": {
+                              "ext": ".png",
+                              "url": "/uploads/medium_Coffee_Doddle_5af895a8f4.png",
+                              "hash": "medium_Coffee_Doddle_5af895a8f4",
+                              "mime": "image/png",
+                              "name": "medium_CoffeeDoddle.png",
+                              "path": null,
+                              "size": 101.69,
+                              "width": 750,
+                              "height": 563
+                            },
+                            "thumbnail": {
+                              "ext": ".png",
+                              "url": "/uploads/thumbnail_Coffee_Doddle_5af895a8f4.png",
+                              "hash": "thumbnail_Coffee_Doddle_5af895a8f4",
+                              "mime": "image/png",
+                              "name": "thumbnail_CoffeeDoddle.png",
+                              "path": null,
+                              "size": 19.64,
+                              "width": 208,
+                              "height": 156
+                            }
+                          },
+                          "hash": "Coffee_Doddle_5af895a8f4",
+                          "ext": ".png",
+                          "mime": "image/png",
+                          "size": 19.06,
+                          "url": "/uploads/Coffee_Doddle_5af895a8f4.png",
+                          "previewUrl": null,
+                          "provider": "local",
+                          "provider_metadata": null,
+                          "createdAt": "2023-12-28T08:26:14.696Z",
+                          "updatedAt": "2023-12-28T08:26:14.696Z"
+                        }
+                      }
+                    },
+                    "linkTo": {
+                      "data": {
+                        "id": 91,
+                        "attributes": {
+                          "title": "Admission",
+                          "slug": "admission",
+                          "createdAt": "2024-01-21T14:30:40.913Z",
+                          "updatedAt": "2024-01-28T11:11:55.450Z"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "id": 6,
+                    "title": "Board of Directors",
+                    "icon": {
+                      "data": {
+                        "id": 21,
+                        "attributes": {
+                          "name": "CoffeeDoddle.png",
+                          "alternativeText": null,
+                          "caption": null,
+                          "width": 1024,
+                          "height": 768,
+                          "formats": {
+                            "large": {
+                              "ext": ".png",
+                              "url": "/uploads/large_Coffee_Doddle_5af895a8f4.png",
+                              "hash": "large_Coffee_Doddle_5af895a8f4",
+                              "mime": "image/png",
+                              "name": "large_CoffeeDoddle.png",
+                              "path": null,
+                              "size": 142.87,
+                              "width": 1000,
+                              "height": 750
+                            },
+                            "small": {
+                              "ext": ".png",
+                              "url": "/uploads/small_Coffee_Doddle_5af895a8f4.png",
+                              "hash": "small_Coffee_Doddle_5af895a8f4",
+                              "mime": "image/png",
+                              "name": "small_CoffeeDoddle.png",
+                              "path": null,
+                              "size": 59.08,
+                              "width": 500,
+                              "height": 375
+                            },
+                            "medium": {
+                              "ext": ".png",
+                              "url": "/uploads/medium_Coffee_Doddle_5af895a8f4.png",
+                              "hash": "medium_Coffee_Doddle_5af895a8f4",
+                              "mime": "image/png",
+                              "name": "medium_CoffeeDoddle.png",
+                              "path": null,
+                              "size": 101.69,
+                              "width": 750,
+                              "height": 563
+                            },
+                            "thumbnail": {
+                              "ext": ".png",
+                              "url": "/uploads/thumbnail_Coffee_Doddle_5af895a8f4.png",
+                              "hash": "thumbnail_Coffee_Doddle_5af895a8f4",
+                              "mime": "image/png",
+                              "name": "thumbnail_CoffeeDoddle.png",
+                              "path": null,
+                              "size": 19.64,
+                              "width": 208,
+                              "height": 156
+                            }
+                          },
+                          "hash": "Coffee_Doddle_5af895a8f4",
+                          "ext": ".png",
+                          "mime": "image/png",
+                          "size": 19.06,
+                          "url": "/uploads/Coffee_Doddle_5af895a8f4.png",
+                          "previewUrl": null,
+                          "provider": "local",
+                          "provider_metadata": null,
+                          "createdAt": "2023-12-28T08:26:14.696Z",
+                          "updatedAt": "2023-12-28T08:26:14.696Z"
+                        }
+                      }
+                    },
+                    "linkTo": {
+                      "data": {
+                        "id": 91,
+                        "attributes": {
+                          "title": "Admission",
+                          "slug": "admission",
+                          "createdAt": "2024-01-21T14:30:40.913Z",
+                          "updatedAt": "2024-01-28T11:11:55.450Z"
+                        }
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": 4,
+                "title": "Faculty and Staff",
+                "iconBox": [
+                  {
+                    "id": 7,
+                    "title": "Faculty Directory",
+                    "icon": {
+                      "data": {
+                        "id": 21,
+                        "attributes": {
+                          "name": "CoffeeDoddle.png",
+                          "alternativeText": null,
+                          "caption": null,
+                          "width": 1024,
+                          "height": 768,
+                          "formats": {
+                            "large": {
+                              "ext": ".png",
+                              "url": "/uploads/large_Coffee_Doddle_5af895a8f4.png",
+                              "hash": "large_Coffee_Doddle_5af895a8f4",
+                              "mime": "image/png",
+                              "name": "large_CoffeeDoddle.png",
+                              "path": null,
+                              "size": 142.87,
+                              "width": 1000,
+                              "height": 750
+                            },
+                            "small": {
+                              "ext": ".png",
+                              "url": "/uploads/small_Coffee_Doddle_5af895a8f4.png",
+                              "hash": "small_Coffee_Doddle_5af895a8f4",
+                              "mime": "image/png",
+                              "name": "small_CoffeeDoddle.png",
+                              "path": null,
+                              "size": 59.08,
+                              "width": 500,
+                              "height": 375
+                            },
+                            "medium": {
+                              "ext": ".png",
+                              "url": "/uploads/medium_Coffee_Doddle_5af895a8f4.png",
+                              "hash": "medium_Coffee_Doddle_5af895a8f4",
+                              "mime": "image/png",
+                              "name": "medium_CoffeeDoddle.png",
+                              "path": null,
+                              "size": 101.69,
+                              "width": 750,
+                              "height": 563
+                            },
+                            "thumbnail": {
+                              "ext": ".png",
+                              "url": "/uploads/thumbnail_Coffee_Doddle_5af895a8f4.png",
+                              "hash": "thumbnail_Coffee_Doddle_5af895a8f4",
+                              "mime": "image/png",
+                              "name": "thumbnail_CoffeeDoddle.png",
+                              "path": null,
+                              "size": 19.64,
+                              "width": 208,
+                              "height": 156
+                            }
+                          },
+                          "hash": "Coffee_Doddle_5af895a8f4",
+                          "ext": ".png",
+                          "mime": "image/png",
+                          "size": 19.06,
+                          "url": "/uploads/Coffee_Doddle_5af895a8f4.png",
+                          "previewUrl": null,
+                          "provider": "local",
+                          "provider_metadata": null,
+                          "createdAt": "2023-12-28T08:26:14.696Z",
+                          "updatedAt": "2023-12-28T08:26:14.696Z"
+                        }
+                      }
+                    },
+                    "linkTo": { "data": null }
+                  },
+                  {
+                    "id": 8,
+                    "title": "Senior Administrative Staff",
+                    "icon": {
+                      "data": {
+                        "id": 21,
+                        "attributes": {
+                          "name": "CoffeeDoddle.png",
+                          "alternativeText": null,
+                          "caption": null,
+                          "width": 1024,
+                          "height": 768,
+                          "formats": {
+                            "large": {
+                              "ext": ".png",
+                              "url": "/uploads/large_Coffee_Doddle_5af895a8f4.png",
+                              "hash": "large_Coffee_Doddle_5af895a8f4",
+                              "mime": "image/png",
+                              "name": "large_CoffeeDoddle.png",
+                              "path": null,
+                              "size": 142.87,
+                              "width": 1000,
+                              "height": 750
+                            },
+                            "small": {
+                              "ext": ".png",
+                              "url": "/uploads/small_Coffee_Doddle_5af895a8f4.png",
+                              "hash": "small_Coffee_Doddle_5af895a8f4",
+                              "mime": "image/png",
+                              "name": "small_CoffeeDoddle.png",
+                              "path": null,
+                              "size": 59.08,
+                              "width": 500,
+                              "height": 375
+                            },
+                            "medium": {
+                              "ext": ".png",
+                              "url": "/uploads/medium_Coffee_Doddle_5af895a8f4.png",
+                              "hash": "medium_Coffee_Doddle_5af895a8f4",
+                              "mime": "image/png",
+                              "name": "medium_CoffeeDoddle.png",
+                              "path": null,
+                              "size": 101.69,
+                              "width": 750,
+                              "height": 563
+                            },
+                            "thumbnail": {
+                              "ext": ".png",
+                              "url": "/uploads/thumbnail_Coffee_Doddle_5af895a8f4.png",
+                              "hash": "thumbnail_Coffee_Doddle_5af895a8f4",
+                              "mime": "image/png",
+                              "name": "thumbnail_CoffeeDoddle.png",
+                              "path": null,
+                              "size": 19.64,
+                              "width": 208,
+                              "height": 156
+                            }
+                          },
+                          "hash": "Coffee_Doddle_5af895a8f4",
+                          "ext": ".png",
+                          "mime": "image/png",
+                          "size": 19.06,
+                          "url": "/uploads/Coffee_Doddle_5af895a8f4.png",
+                          "previewUrl": null,
+                          "provider": "local",
+                          "provider_metadata": null,
+                          "createdAt": "2023-12-28T08:26:14.696Z",
+                          "updatedAt": "2023-12-28T08:26:14.696Z"
+                        }
+                      }
+                    },
+                    "linkTo": { "data": null }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "__component": "pcomp.info-cards",
+            "infoCards": [
+              {
+                "id": 1,
+                "title": "Dr. Ahmed Zewail",
+                "description": "**The Founder\n**Dr. Ahmed Zewail is the Linus Pauling Chair Professor of Chemistry and Professor of Physics at the California Institute of Technology (Caltech), and the Director of the Moore Foundation’s Center for Physical Biology at Caltech. He received his early education in Egypt and he completed his Ph.D. from the University of Pennsylvania and a postdoctoral (IBM) fellowship at the University of California, Berkeley, USA, before joining the faculty at Caltech. On April 27, 2009, President Barack Obama appointed him to the President’s Council of Advisors of the White House, and in November of the same year, he was named the first United States Science Envoy to the Middle East.",
+                "image": {
+                  "data": {
+                    "id": 18,
+                    "attributes": {
+                      "name": "AhmedZewail.jpg",
+                      "alternativeText": null,
+                      "caption": null,
+                      "width": 800,
+                      "height": 491,
+                      "formats": {
+                        "small": {
+                          "ext": ".jpg",
+                          "url": "/uploads/small_Ahmed_Zewail_e26a401a64.jpg",
+                          "hash": "small_Ahmed_Zewail_e26a401a64",
+                          "mime": "image/jpeg",
+                          "name": "small_AhmedZewail.jpg",
+                          "path": null,
+                          "size": 20.55,
+                          "width": 500,
+                          "height": 307
+                        },
+                        "medium": {
+                          "ext": ".jpg",
+                          "url": "/uploads/medium_Ahmed_Zewail_e26a401a64.jpg",
+                          "hash": "medium_Ahmed_Zewail_e26a401a64",
+                          "mime": "image/jpeg",
+                          "name": "medium_AhmedZewail.jpg",
+                          "path": null,
+                          "size": 39.2,
+                          "width": 750,
+                          "height": 460
+                        },
+                        "thumbnail": {
+                          "ext": ".jpg",
+                          "url": "/uploads/thumbnail_Ahmed_Zewail_e26a401a64.jpg",
+                          "hash": "thumbnail_Ahmed_Zewail_e26a401a64",
+                          "mime": "image/jpeg",
+                          "name": "thumbnail_AhmedZewail.jpg",
+                          "path": null,
+                          "size": 7,
+                          "width": 245,
+                          "height": 150
+                        }
+                      },
+                      "hash": "Ahmed_Zewail_e26a401a64",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "size": 43.49,
+                      "url": "/uploads/Ahmed_Zewail_e26a401a64.jpg",
+                      "previewUrl": null,
+                      "provider": "local",
+                      "provider_metadata": null,
+                      "createdAt": "2023-12-28T08:24:07.039Z",
+                      "updatedAt": "2023-12-28T08:24:07.039Z"
+                    }
+                  }
+                },
+                "linkTo": {
+                  "data": {
+                    "id": 99,
+                    "attributes": {
+                      "title": "Faculty Members",
+                      "slug": "facultymembers",
+                      "createdAt": "2024-01-21T14:33:03.400Z",
+                      "updatedAt": "2024-01-21T14:33:03.400Z"
+                    }
+                  }
+                }
+              },
+              {
+                "id": 2,
+                "title": "Minister Ayman Ashour",
+                "description": "Minister Ayman AshourMinister Ayman AshourMinister Ayman AshourMinister Ayman AshourMinister Ayman AshourMinister Ayman Ashour",
+                "image": {
+                  "data": {
+                    "id": 19,
+                    "attributes": {
+                      "name": "Chairman.png",
+                      "alternativeText": null,
+                      "caption": null,
+                      "width": 527,
+                      "height": 506,
+                      "formats": {
+                        "small": {
+                          "ext": ".png",
+                          "url": "/uploads/small_Chairman_7bd1dea48d.png",
+                          "hash": "small_Chairman_7bd1dea48d",
+                          "mime": "image/png",
+                          "name": "small_Chairman.png",
+                          "path": null,
+                          "size": 467.54,
+                          "width": 500,
+                          "height": 480
+                        },
+                        "thumbnail": {
+                          "ext": ".png",
+                          "url": "/uploads/thumbnail_Chairman_7bd1dea48d.png",
+                          "hash": "thumbnail_Chairman_7bd1dea48d",
+                          "mime": "image/png",
+                          "name": "thumbnail_Chairman.png",
+                          "path": null,
+                          "size": 61.74,
+                          "width": 162,
+                          "height": 156
+                        }
+                      },
+                      "hash": "Chairman_7bd1dea48d",
+                      "ext": ".png",
+                      "mime": "image/png",
+                      "size": 93.97,
+                      "url": "/uploads/Chairman_7bd1dea48d.png",
+                      "previewUrl": null,
+                      "provider": "local",
+                      "provider_metadata": null,
+                      "createdAt": "2023-12-28T08:24:42.876Z",
+                      "updatedAt": "2023-12-28T08:24:42.876Z"
+                    }
+                  }
+                },
+                "linkTo": {
+                  "data": {
+                    "id": 91,
+                    "attributes": {
+                      "title": "Admission",
+                      "slug": "admission",
+                      "createdAt": "2024-01-21T14:30:40.913Z",
+                      "updatedAt": "2024-01-28T11:11:55.450Z"
+                    }
+                  }
+                }
+              },
+              {
+                "id": 3,
+                "title": "Dr. Mahmoud Abdrabou",
+                "description": "Dr. Mahmoud AbdrabouDr. Mahmoud AbdrabouDr. Mahmoud AbdrabouDr. Mahmoud AbdrabouDr. Mahmoud AbdrabouDr. Mahmoud Abdrabou",
+                "image": {
+                  "data": {
+                    "id": 20,
+                    "attributes": {
+                      "name": "EP.png",
+                      "alternativeText": null,
+                      "caption": null,
+                      "width": 477,
+                      "height": 462,
+                      "formats": {
+                        "thumbnail": {
+                          "ext": ".png",
+                          "url": "/uploads/thumbnail_EP_7713d3aaae.png",
+                          "hash": "thumbnail_EP_7713d3aaae",
+                          "mime": "image/png",
+                          "name": "thumbnail_EP.png",
+                          "path": null,
+                          "size": 55.48,
+                          "width": 161,
+                          "height": 156
+                        }
+                      },
+                      "hash": "EP_7713d3aaae",
+                      "ext": ".png",
+                      "mime": "image/png",
+                      "size": 72.36,
+                      "url": "/uploads/EP_7713d3aaae.png",
+                      "previewUrl": null,
+                      "provider": "local",
+                      "provider_metadata": null,
+                      "createdAt": "2023-12-28T08:25:19.917Z",
+                      "updatedAt": "2024-01-03T12:32:02.999Z"
+                    }
+                  }
+                },
+                "linkTo": {
+                  "data": {
+                    "id": 98,
+                    "attributes": {
+                      "title": "Boardof Trustees",
+                      "slug": "boardoftrustees",
+                      "createdAt": "2024-01-21T14:32:52.410Z",
+                      "updatedAt": "2024-01-21T14:32:52.410Z"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "__component": "pcomp.campus-life",
+            "sectionHeader": {
+              "id": 5,
+              "title": "Campus Life",
+              "button": {
+                "id": 20,
+                "theme": "contained",
+                "link": {
+                  "id": 21,
+                  "label": "test",
+                  "target": {
+                    "data": {
+                      "id": 90,
+                      "attributes": {
+                        "title": "Give",
+                        "slug": "give",
+                        "createdAt": "2024-01-21T14:30:23.956Z",
+                        "updatedAt": "2024-01-28T11:11:49.163Z"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "facilities": [
+              {
+                "id": 5,
+                "button": {
+                  "id": 21,
+                  "theme": "contained",
+                  "link": {
+                    "id": 22,
+                    "label": "Dorms",
+                    "target": {
+                      "data": {
+                        "id": 92,
+                        "attributes": {
+                          "title": "Campus life",
+                          "slug": "campuslife",
+                          "createdAt": "2024-01-21T14:30:53.995Z",
+                          "updatedAt": "2024-01-21T14:47:34.063Z"
+                        }
+                      }
+                    }
+                  }
+                },
+                "image": {
+                  "data": {
+                    "id": 24,
+                    "attributes": {
+                      "name": "4_-_Fall_2015_Orientation_-min.JPG",
+                      "alternativeText": null,
+                      "caption": null,
+                      "width": 1170,
+                      "height": 913,
+                      "formats": {
+                        "large": {
+                          "ext": ".JPG",
+                          "url": "/uploads/large_4_Fall_2015_Orientation_min_71ad7ec692.JPG",
+                          "hash": "large_4_Fall_2015_Orientation_min_71ad7ec692",
+                          "mime": "image/jpeg",
+                          "name": "large_4_-_Fall_2015_Orientation_-min.JPG",
+                          "path": null,
+                          "size": 116.59,
+                          "width": 1000,
+                          "height": 780
+                        },
+                        "small": {
+                          "ext": ".JPG",
+                          "url": "/uploads/small_4_Fall_2015_Orientation_min_71ad7ec692.JPG",
+                          "hash": "small_4_Fall_2015_Orientation_min_71ad7ec692",
+                          "mime": "image/jpeg",
+                          "name": "small_4_-_Fall_2015_Orientation_-min.JPG",
+                          "path": null,
+                          "size": 40.6,
+                          "width": 500,
+                          "height": 390
+                        },
+                        "medium": {
+                          "ext": ".JPG",
+                          "url": "/uploads/medium_4_Fall_2015_Orientation_min_71ad7ec692.JPG",
+                          "hash": "medium_4_Fall_2015_Orientation_min_71ad7ec692",
+                          "mime": "image/jpeg",
+                          "name": "medium_4_-_Fall_2015_Orientation_-min.JPG",
+                          "path": null,
+                          "size": 75.06,
+                          "width": 750,
+                          "height": 585
+                        },
+                        "thumbnail": {
+                          "ext": ".JPG",
+                          "url": "/uploads/thumbnail_4_Fall_2015_Orientation_min_71ad7ec692.JPG",
+                          "hash": "thumbnail_4_Fall_2015_Orientation_min_71ad7ec692",
+                          "mime": "image/jpeg",
+                          "name": "thumbnail_4_-_Fall_2015_Orientation_-min.JPG",
+                          "path": null,
+                          "size": 9.63,
+                          "width": 200,
+                          "height": 156
+                        }
+                      },
+                      "hash": "4_Fall_2015_Orientation_min_71ad7ec692",
+                      "ext": ".JPG",
+                      "mime": "image/jpeg",
+                      "size": 149.97,
+                      "url": "/uploads/4_Fall_2015_Orientation_min_71ad7ec692.JPG",
+                      "previewUrl": null,
+                      "provider": "local",
+                      "provider_metadata": null,
+                      "createdAt": "2023-12-28T08:29:39.534Z",
+                      "updatedAt": "2024-01-09T11:10:12.978Z"
+                    }
+                  }
+                }
+              },
+              {
+                "id": 6,
+                "button": {
+                  "id": 22,
+                  "theme": "contained",
+                  "link": {
+                    "id": 23,
+                    "label": "Clinic",
+                    "target": {
+                      "data": {
+                        "id": 84,
+                        "attributes": {
+                          "title": "Home",
+                          "slug": "home",
+                          "createdAt": "2024-01-21T14:28:35.950Z",
+                          "updatedAt": "2024-01-28T11:10:58.552Z"
+                        }
+                      }
+                    }
+                  }
+                },
+                "image": {
+                  "data": {
+                    "id": 24,
+                    "attributes": {
+                      "name": "4_-_Fall_2015_Orientation_-min.JPG",
+                      "alternativeText": null,
+                      "caption": null,
+                      "width": 1170,
+                      "height": 913,
+                      "formats": {
+                        "large": {
+                          "ext": ".JPG",
+                          "url": "/uploads/large_4_Fall_2015_Orientation_min_71ad7ec692.JPG",
+                          "hash": "large_4_Fall_2015_Orientation_min_71ad7ec692",
+                          "mime": "image/jpeg",
+                          "name": "large_4_-_Fall_2015_Orientation_-min.JPG",
+                          "path": null,
+                          "size": 116.59,
+                          "width": 1000,
+                          "height": 780
+                        },
+                        "small": {
+                          "ext": ".JPG",
+                          "url": "/uploads/small_4_Fall_2015_Orientation_min_71ad7ec692.JPG",
+                          "hash": "small_4_Fall_2015_Orientation_min_71ad7ec692",
+                          "mime": "image/jpeg",
+                          "name": "small_4_-_Fall_2015_Orientation_-min.JPG",
+                          "path": null,
+                          "size": 40.6,
+                          "width": 500,
+                          "height": 390
+                        },
+                        "medium": {
+                          "ext": ".JPG",
+                          "url": "/uploads/medium_4_Fall_2015_Orientation_min_71ad7ec692.JPG",
+                          "hash": "medium_4_Fall_2015_Orientation_min_71ad7ec692",
+                          "mime": "image/jpeg",
+                          "name": "medium_4_-_Fall_2015_Orientation_-min.JPG",
+                          "path": null,
+                          "size": 75.06,
+                          "width": 750,
+                          "height": 585
+                        },
+                        "thumbnail": {
+                          "ext": ".JPG",
+                          "url": "/uploads/thumbnail_4_Fall_2015_Orientation_min_71ad7ec692.JPG",
+                          "hash": "thumbnail_4_Fall_2015_Orientation_min_71ad7ec692",
+                          "mime": "image/jpeg",
+                          "name": "thumbnail_4_-_Fall_2015_Orientation_-min.JPG",
+                          "path": null,
+                          "size": 9.63,
+                          "width": 200,
+                          "height": 156
+                        }
+                      },
+                      "hash": "4_Fall_2015_Orientation_min_71ad7ec692",
+                      "ext": ".JPG",
+                      "mime": "image/jpeg",
+                      "size": 149.97,
+                      "url": "/uploads/4_Fall_2015_Orientation_min_71ad7ec692.JPG",
+                      "previewUrl": null,
+                      "provider": "local",
+                      "provider_metadata": null,
+                      "createdAt": "2023-12-28T08:29:39.534Z",
+                      "updatedAt": "2024-01-09T11:10:12.978Z"
+                    }
+                  }
+                }
+              },
+              {
+                "id": 7,
+                "button": {
+                  "id": 23,
+                  "theme": "contained",
+                  "link": {
+                    "id": 24,
+                    "label": "Library",
+                    "target": {
+                      "data": {
+                        "id": 96,
+                        "attributes": {
+                          "title": "Graduate Academic",
+                          "slug": "graduate",
+                          "createdAt": "2024-01-21T14:32:23.318Z",
+                          "updatedAt": "2024-01-21T14:48:46.270Z"
+                        }
+                      }
+                    }
+                  }
+                },
+                "image": {
+                  "data": {
+                    "id": 15,
+                    "attributes": {
+                      "name": "kenny_eliason_1_a_A2_Fadydc_unsplash_60208b6af0.webp",
+                      "alternativeText": null,
+                      "caption": null,
+                      "width": 1920,
+                      "height": 1280,
+                      "formats": {
+                        "large": {
+                          "ext": ".webp",
+                          "url": "/uploads/large_kenny_eliason_1_a_A2_Fadydc_unsplash_60208b6af0_3c2d5b8fe6.webp",
+                          "hash": "large_kenny_eliason_1_a_A2_Fadydc_unsplash_60208b6af0_3c2d5b8fe6",
+                          "mime": "image/webp",
+                          "name": "large_kenny_eliason_1_a_A2_Fadydc_unsplash_60208b6af0.webp",
+                          "path": null,
+                          "size": 51.09,
+                          "width": 1000,
+                          "height": 667
+                        },
+                        "small": {
+                          "ext": ".webp",
+                          "url": "/uploads/small_kenny_eliason_1_a_A2_Fadydc_unsplash_60208b6af0_3c2d5b8fe6.webp",
+                          "hash": "small_kenny_eliason_1_a_A2_Fadydc_unsplash_60208b6af0_3c2d5b8fe6",
+                          "mime": "image/webp",
+                          "name": "small_kenny_eliason_1_a_A2_Fadydc_unsplash_60208b6af0.webp",
+                          "path": null,
+                          "size": 20.84,
+                          "width": 500,
+                          "height": 333
+                        },
+                        "medium": {
+                          "ext": ".webp",
+                          "url": "/uploads/medium_kenny_eliason_1_a_A2_Fadydc_unsplash_60208b6af0_3c2d5b8fe6.webp",
+                          "hash": "medium_kenny_eliason_1_a_A2_Fadydc_unsplash_60208b6af0_3c2d5b8fe6",
+                          "mime": "image/webp",
+                          "name": "medium_kenny_eliason_1_a_A2_Fadydc_unsplash_60208b6af0.webp",
+                          "path": null,
+                          "size": 35.49,
+                          "width": 750,
+                          "height": 500
+                        },
+                        "thumbnail": {
+                          "ext": ".webp",
+                          "url": "/uploads/thumbnail_kenny_eliason_1_a_A2_Fadydc_unsplash_60208b6af0_3c2d5b8fe6.webp",
+                          "hash": "thumbnail_kenny_eliason_1_a_A2_Fadydc_unsplash_60208b6af0_3c2d5b8fe6",
+                          "mime": "image/webp",
+                          "name": "thumbnail_kenny_eliason_1_a_A2_Fadydc_unsplash_60208b6af0.webp",
+                          "path": null,
+                          "size": 6.86,
+                          "width": 234,
+                          "height": 156
+                        }
+                      },
+                      "hash": "kenny_eliason_1_a_A2_Fadydc_unsplash_60208b6af0_3c2d5b8fe6",
+                      "ext": ".webp",
+                      "mime": "image/webp",
+                      "size": 99.41,
+                      "url": "/uploads/kenny_eliason_1_a_A2_Fadydc_unsplash_60208b6af0_3c2d5b8fe6.webp",
+                      "previewUrl": null,
+                      "provider": "local",
+                      "provider_metadata": null,
+                      "createdAt": "2023-12-27T13:18:29.578Z",
+                      "updatedAt": "2023-12-27T13:18:29.578Z"
+                    }
+                  }
+                }
+              },
+              {
+                "id": 8,
+                "button": {
+                  "id": 24,
+                  "theme": "contained",
+                  "link": {
+                    "id": 25,
+                    "label": "Transportation",
+                    "target": {
+                      "data": {
+                        "id": 83,
+                        "attributes": {
+                          "title": "About",
+                          "slug": "about",
+                          "createdAt": "2024-01-21T14:28:15.857Z",
+                          "updatedAt": "2024-01-29T12:22:10.851Z"
+                        }
+                      }
+                    }
+                  }
+                },
+                "image": {
+                  "data": {
+                    "id": 16,
+                    "attributes": {
+                      "name": "kenny-eliason-zFSo6bnZJTw-unsplash.jpg",
+                      "alternativeText": null,
+                      "caption": null,
+                      "width": 1920,
+                      "height": 1195,
+                      "formats": {
+                        "large": {
+                          "ext": ".jpg",
+                          "url": "/uploads/large_kenny_eliason_z_F_So6bn_ZJ_Tw_unsplash_53a707ae54.jpg",
+                          "hash": "large_kenny_eliason_z_F_So6bn_ZJ_Tw_unsplash_53a707ae54",
+                          "mime": "image/jpeg",
+                          "name": "large_kenny-eliason-zFSo6bnZJTw-unsplash.jpg",
+                          "path": null,
+                          "size": 78.8,
+                          "width": 1000,
+                          "height": 622
+                        },
+                        "small": {
+                          "ext": ".jpg",
+                          "url": "/uploads/small_kenny_eliason_z_F_So6bn_ZJ_Tw_unsplash_53a707ae54.jpg",
+                          "hash": "small_kenny_eliason_z_F_So6bn_ZJ_Tw_unsplash_53a707ae54",
+                          "mime": "image/jpeg",
+                          "name": "small_kenny-eliason-zFSo6bnZJTw-unsplash.jpg",
+                          "path": null,
+                          "size": 28.67,
+                          "width": 500,
+                          "height": 311
+                        },
+                        "medium": {
+                          "ext": ".jpg",
+                          "url": "/uploads/medium_kenny_eliason_z_F_So6bn_ZJ_Tw_unsplash_53a707ae54.jpg",
+                          "hash": "medium_kenny_eliason_z_F_So6bn_ZJ_Tw_unsplash_53a707ae54",
+                          "mime": "image/jpeg",
+                          "name": "medium_kenny-eliason-zFSo6bnZJTw-unsplash.jpg",
+                          "path": null,
+                          "size": 51.91,
+                          "width": 750,
+                          "height": 467
+                        },
+                        "thumbnail": {
+                          "ext": ".jpg",
+                          "url": "/uploads/thumbnail_kenny_eliason_z_F_So6bn_ZJ_Tw_unsplash_53a707ae54.jpg",
+                          "hash": "thumbnail_kenny_eliason_z_F_So6bn_ZJ_Tw_unsplash_53a707ae54",
+                          "mime": "image/jpeg",
+                          "name": "thumbnail_kenny-eliason-zFSo6bnZJTw-unsplash.jpg",
+                          "path": null,
+                          "size": 9.94,
+                          "width": 245,
+                          "height": 152
+                        }
+                      },
+                      "hash": "kenny_eliason_z_F_So6bn_ZJ_Tw_unsplash_53a707ae54",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "size": 247.92,
+                      "url": "/uploads/kenny_eliason_z_F_So6bn_ZJ_Tw_unsplash_53a707ae54.jpg",
+                      "previewUrl": null,
+                      "provider": "local",
+                      "provider_metadata": null,
+                      "createdAt": "2023-12-28T08:19:20.984Z",
+                      "updatedAt": "2023-12-28T08:19:20.984Z"
+                    }
+                  }
+                }
+              }
+            ],
+            "more": {
+              "id": 2,
+              "page": {
+                "data": {
+                  "id": 3,
+                  "attributes": {
+                    "title": "Home",
+                    "createdAt": "2023-12-21T13:51:32.355Z",
+                    "updatedAt": "2024-01-28T11:10:58.446Z",
+                    "publishedAt": "2023-12-21T13:52:03.809Z",
+                    "locale": "en",
+                    "slug": "home",
+                    "category": "global",
+                    "sidebar": false,
+                    "seo": {
+                      "id": 1,
+                      "metaTitle": "Zewail City of Science and Technology: Innovation Hub",
+                      "metaDescription": "Discover cutting-edge research and innovation at Zewail City Explore diverse academic programs and scientific breakthroughs in Egypt's premier institution",
+                      "keywords": "Zewail City, Science and Technology, Research Institution, Education in Egypt, Ahmed Zewail, Nobel Laureate, Academic Programs, Innovation Hub, Scientific Research, Egypt's Premier University, STEM Education, Engineering Programs, Biomedical Research, Technology Advancements",
+                      "metaRobots": "index, follow",
+                      "structuredData": {
+                        "url": "https://www.example.com",
+                        "logo": "https://www.example.com/logo.png",
+                        "name": "Zewail City of Science and Technology",
+                        "@type": "Organization",
+                        "@context": "http://schema.org",
+                        "description": "A leading research institution in Egypt."
+                      },
+                      "metaViewport": null,
+                      "canonicalURL": "https://strapi.zcltsdev.com",
+                      "metaImage": {
+                        "data": {
+                          "id": 4,
+                          "attributes": {
+                            "name": "grads.png",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 530,
+                            "height": 208,
+                            "formats": {
+                              "small": {
+                                "ext": ".png",
+                                "url": "/uploads/small_grads_8fb14525cd.png",
+                                "hash": "small_grads_8fb14525cd",
+                                "mime": "image/png",
+                                "name": "small_grads.png",
+                                "path": null,
+                                "size": 219.72,
+                                "width": 500,
+                                "height": 196
+                              },
+                              "thumbnail": {
+                                "ext": ".png",
+                                "url": "/uploads/thumbnail_grads_8fb14525cd.png",
+                                "hash": "thumbnail_grads_8fb14525cd",
+                                "mime": "image/png",
+                                "name": "thumbnail_grads.png",
+                                "path": null,
+                                "size": 59.97,
+                                "width": 245,
+                                "height": 96
+                              }
+                            },
+                            "hash": "grads_8fb14525cd",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "size": 48.72,
+                            "url": "/uploads/grads_8fb14525cd.png",
+                            "previewUrl": null,
+                            "provider": "local",
+                            "provider_metadata": null,
+                            "createdAt": "2023-12-21T08:21:56.179Z",
+                            "updatedAt": "2023-12-31T09:58:56.708Z"
+                          }
+                        }
+                      },
+                      "metaSocial": []
+                    },
+                    "Content": [
+                      {
+                        "id": 2,
+                        "__component": "pcomp.hero",
+                        "title": "Egyptian Institution With International Standards",
+                        "image": {
+                          "data": {
+                            "id": 28,
+                            "attributes": {
+                              "name": "zcImage.jpg",
+                              "alternativeText": null,
+                              "caption": null,
+                              "width": 3680,
+                              "height": 1655,
+                              "formats": {
+                                "thumbnail": {
+                                  "ext": ".jpg",
+                                  "url": "/uploads/thumbnail_zc_Image_7acb90e70e.jpg",
+                                  "hash": "thumbnail_zc_Image_7acb90e70e",
+                                  "mime": "image/jpeg",
+                                  "name": "thumbnail_zcImage.jpg",
+                                  "path": null,
+                                  "size": 6.33,
+                                  "width": 245,
+                                  "height": 110
+                                }
+                              },
+                              "hash": "zc_Image_7acb90e70e",
+                              "ext": ".jpg",
+                              "mime": "image/jpeg",
+                              "size": 519.75,
+                              "url": "/uploads/zc_Image_7acb90e70e.jpg",
+                              "previewUrl": null,
+                              "provider": "local",
+                              "provider_metadata": null,
+                              "createdAt": "2024-01-10T09:18:08.487Z",
+                              "updatedAt": "2024-01-11T09:49:49.707Z"
+                            }
+                          }
+                        },
+                        "buttons": [
+                          { "id": 6, "theme": "contained" },
+                          { "id": 7, "theme": "contained" }
+                        ]
+                      },
+                      {
+                        "id": 1,
+                        "__component": "pcomp.academic-section",
+                        "sectionHeader": { "id": 1, "title": "Academics" },
+                        "photoLink": [
+                          { "id": 1, "buttonText": "Undergraduate Schools" },
+                          { "id": 2, "buttonText": "Graduate Programs" }
+                        ]
+                      },
+                      {
+                        "id": 1,
+                        "__component": "pcomp.news",
+                        "sectionHeader": { "id": 2, "title": "News" },
+                        "news": {
+                          "data": [
+                            {
+                              "id": 1,
+                              "attributes": {
+                                "title": "Artificial Intelligence Breakthrough",
+                                "date": "2023-08-23",
+                                "body": "In a significant advancement for the healthcare industry, researchers at the AI Healthcare Solutions Institute have introduced an AI-powered healthcare assistant that is poised to revolutionize patient care. This groundbreaking development promises to enhance medical diagnosis, streamline administrative tasks, and improve overall healthcare outcomes.\n\nThe AI healthcare assistant, named HealthBot, utilizes state-of-the-art machine learning algorithms and vast medical databases to provide real-time assistance to healthcare professionals. It can analyze complex medical data, assist in diagnosing illnesses, and recommend personalized treatment plans with remarkable accuracy.\n\nDr. Lisa Chang, the lead scientist on the project, explains, \"HealthBot is designed to work in tandem with healthcare providers, not replace them. It serves as a valuable tool, helping doctors and nurses make more informed decisions and providing patients with timely, personalized care.\"\n\nOne of HealthBot's notable features is its ability to predict disease outbreaks and identify potential health risks within communities. By analyzing patterns in medical data, it can alert healthcare authorities to emerging threats, enabling proactive measures to be taken in disease prevention and management.\n\nMoreover, HealthBot can streamline administrative tasks in healthcare facilities, such as appointment scheduling and billing. This allows healthcare professionals to spend more time with patients, improving the quality of care and reducing administrative overhead.\n\nThe introduction of AI-powered healthcare assistants like HealthBot has the potential to address critical challenges in the healthcare industry, such as physician shortages and the increasing complexity of medical data. It also holds promise for improving patient outcomes and reducing healthcare costs.\n\nWhile the adoption of AI in healthcare raises important ethical and privacy considerations, researchers are committed to developing safeguards to protect patient data and ensure the responsible use of this technology.\n\nAs HealthBot undergoes further testing and refinement, it represents a significant step toward a future where AI plays a central role in providing accessible, efficient, and high-quality healthcare for all.",
+                                "createdAt": "2023-12-27T09:41:22.622Z",
+                                "updatedAt": "2024-01-17T14:19:37.635Z",
+                                "publishedAt": "2023-12-27T09:41:28.664Z",
+                                "locale": "en",
+                                "slug": "artificial-intelligence-breakthrough"
+                              }
+                            },
+                            {
+                              "id": 2,
+                              "attributes": {
+                                "title": "Zewail City Signs a Cooperation Protocol with Egypt’s Ministry of Environment",
+                                "date": "2023-08-23",
+                                "body": "In a significant advancement for the healthcare industry, researchers at the AI Healthcare Solutions Institute have introduced an AI-powered healthcare assistant that is poised to revolutionize patient care. This groundbreaking development promises to enhance medical diagnosis, streamline administrative tasks, and improve overall healthcare outcomes.\n\nThe AI healthcare assistant, named HealthBot, utilizes state-of-the-art machine learning algorithms and vast medical databases to provide real-time assistance to healthcare professionals. It can analyze complex medical data, assist in diagnosing illnesses, and recommend personalized treatment plans with remarkable accuracy.\n\nDr. Lisa Chang, the lead scientist on the project, explains, \"HealthBot is designed to work in tandem with healthcare providers, not replace them. It serves as a valuable tool, helping doctors and nurses make more informed decisions and providing patients with timely, personalized care.\"\n\nOne of HealthBot's notable features is its ability to predict disease outbreaks and identify potential health risks within communities. By analyzing patterns in medical data, it can alert healthcare authorities to emerging threats, enabling proactive measures to be taken in disease prevention and management.\n\nMoreover, HealthBot can streamline administrative tasks in healthcare facilities, such as appointment scheduling and billing. This allows healthcare professionals to spend more time with patients, improving the quality of care and reducing administrative overhead.\n\nThe introduction of AI-powered healthcare assistants like HealthBot has the potential to address critical challenges in the healthcare industry, such as physician shortages and the increasing complexity of medical data. It also holds promise for improving patient outcomes and reducing healthcare costs.\n\nWhile the adoption of AI in healthcare raises important ethical and privacy considerations, researchers are committed to developing safeguards to protect patient data and ensure the responsible use of this technology.\n\nAs HealthBot undergoes further testing and refinement, it represents a significant step toward a future where AI plays a central role in providing accessible, efficient, and high-quality healthcare for all.",
+                                "createdAt": "2023-12-27T09:41:58.469Z",
+                                "updatedAt": "2024-01-17T14:25:41.737Z",
+                                "publishedAt": "2023-12-27T09:42:04.102Z",
+                                "locale": "en",
+                                "slug": "zewail-city-signs-a-cooperation-protocol-with-egypt-s-ministry-of-environment"
+                              }
+                            },
+                            {
+                              "id": 3,
+                              "attributes": {
+                                "title": "A Delegation from Paşabahçe Company for the Glass Industry on a visit to Zewail City",
+                                "date": "2023-08-23",
+                                "body": "In a significant advancement for the healthcare industry, researchers at the AI Healthcare Solutions Institute have introduced an AI-powered healthcare assistant that is poised to revolutionize patient care. This groundbreaking development promises to enhance medical diagnosis, streamline administrative tasks, and improve overall healthcare outcomes.\n\nThe AI healthcare assistant, named HealthBot, utilizes state-of-the-art machine learning algorithms and vast medical databases to provide real-time assistance to healthcare professionals. It can analyze complex medical data, assist in diagnosing illnesses, and recommend personalized treatment plans with remarkable accuracy.\n\nDr. Lisa Chang, the lead scientist on the project, explains, \"HealthBot is designed to work in tandem with healthcare providers, not replace them. It serves as a valuable tool, helping doctors and nurses make more informed decisions and providing patients with timely, personalized care.\"\n\nOne of HealthBot's notable features is its ability to predict disease outbreaks and identify potential health risks within communities. By analyzing patterns in medical data, it can alert healthcare authorities to emerging threats, enabling proactive measures to be taken in disease prevention and management.\n\nMoreover, HealthBot can streamline administrative tasks in healthcare facilities, such as appointment scheduling and billing. This allows healthcare professionals to spend more time with patients, improving the quality of care and reducing administrative overhead.\n\nThe introduction of AI-powered healthcare assistants like HealthBot has the potential to address critical challenges in the healthcare industry, such as physician shortages and the increasing complexity of medical data. It also holds promise for improving patient outcomes and reducing healthcare costs.\n\nWhile the adoption of AI in healthcare raises important ethical and privacy considerations, researchers are committed to developing safeguards to protect patient data and ensure the responsible use of this technology.\n\nAs HealthBot undergoes further testing and refinement, it represents a significant step toward a future where AI plays a central role in providing accessible, efficient, and high-quality healthcare for all.",
+                                "createdAt": "2023-12-27T09:42:19.815Z",
+                                "updatedAt": "2024-01-17T14:25:11.813Z",
+                                "publishedAt": "2023-12-27T09:42:52.380Z",
+                                "locale": "en",
+                                "slug": "a-delegation-from-pasabahce-company-for-the-glass-industry-on-a-visit-to-zewail-city"
+                              }
+                            },
+                            {
+                              "id": 4,
+                              "attributes": {
+                                "title": "IOP Selects Professor Obaya as Chair of the Quantum Electronics and Photonics",
+                                "date": "2023-08-23",
+                                "body": "In a significant advancement for the healthcare industry, researchers at the AI Healthcare Solutions Institute have introduced an AI-powered healthcare assistant that is poised to revolutionize patient care. This groundbreaking development promises to enhance medical diagnosis, streamline administrative tasks, and improve overall healthcare outcomes.\n\nThe AI healthcare assistant, named HealthBot, utilizes state-of-the-art machine learning algorithms and vast medical databases to provide real-time assistance to healthcare professionals. It can analyze complex medical data, assist in diagnosing illnesses, and recommend personalized treatment plans with remarkable accuracy.\n\nDr. Lisa Chang, the lead scientist on the project, explains, \"HealthBot is designed to work in tandem with healthcare providers, not replace them. It serves as a valuable tool, helping doctors and nurses make more informed decisions and providing patients with timely, personalized care.\"\n\nOne of HealthBot's notable features is its ability to predict disease outbreaks and identify potential health risks within communities. By analyzing patterns in medical data, it can alert healthcare authorities to emerging threats, enabling proactive measures to be taken in disease prevention and management.\n\nMoreover, HealthBot can streamline administrative tasks in healthcare facilities, such as appointment scheduling and billing. This allows healthcare professionals to spend more time with patients, improving the quality of care and reducing administrative overhead.\n\nThe introduction of AI-powered healthcare assistants like HealthBot has the potential to address critical challenges in the healthcare industry, such as physician shortages and the increasing complexity of medical data. It also holds promise for improving patient outcomes and reducing healthcare costs.\n\nWhile the adoption of AI in healthcare raises important ethical and privacy considerations, researchers are committed to developing safeguards to protect patient data and ensure the responsible use of this technology.\n\nAs HealthBot undergoes further testing and refinement, it represents a significant step toward a future where AI plays a central role in providing accessible, efficient, and high-quality healthcare for all.",
+                                "createdAt": "2023-12-27T09:42:37.470Z",
+                                "updatedAt": "2024-01-17T14:24:42.504Z",
+                                "publishedAt": "2023-12-27T09:42:43.008Z",
+                                "locale": "en",
+                                "slug": "iop-selects-professor-obaya-as-chair-of-the-quantum-electronics-and-photonics"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "id": 1,
+                        "__component": "pcomp.events",
+                        "subtitle": "Upcoming Events",
+                        "sectionHeader": { "id": 3, "title": "Events" },
+                        "events": {
+                          "data": [
+                            {
+                              "id": 1,
+                              "attributes": {
+                                "title": "Be proud to be zewailian",
+                                "date": "2023-09-22T00:30:00.000Z",
+                                "contactNumber": "01111111111",
+                                "contactEmail": "test@gmail.com",
+                                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt eget nullam non nisi. Pretium aenean pharetra magna ac placerat vestibulum lectus mauris. Ultricies lacus sed turpis tincidunt id aliquet risus feugiat in.\n",
+                                "createdAt": "2023-12-27T09:37:27.898Z",
+                                "updatedAt": "2024-01-22T10:05:21.771Z",
+                                "publishedAt": "2023-12-27T09:40:46.635Z",
+                                "locale": "en",
+                                "slug": "be-proud-to-be-zewailian",
+                                "endDate": "04:15:00.000"
+                              }
+                            },
+                            {
+                              "id": 2,
+                              "attributes": {
+                                "title": "Be proud to be zc",
+                                "date": "2023-08-23T00:00:00.000Z",
+                                "contactNumber": "01111111111",
+                                "contactEmail": "test@gmail.com",
+                                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt .\n",
+                                "createdAt": "2023-12-27T09:38:37.852Z",
+                                "updatedAt": "2024-01-22T10:05:13.910Z",
+                                "publishedAt": "2023-12-27T09:40:38.460Z",
+                                "locale": "en",
+                                "slug": "be-proud-to-be-zc",
+                                "endDate": "06:30:00.000"
+                              }
+                            },
+                            {
+                              "id": 3,
+                              "attributes": {
+                                "title": "Be proud to be zewailian community",
+                                "date": "2023-08-23T00:45:00.000Z",
+                                "contactNumber": "01111111111",
+                                "contactEmail": "test@gmail.com",
+                                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt eget nullam non nisi. Pretium aenean pharetra magna ac placerat vestibulum lectus mauris. Ultricies lacus sed turpis tincidunt id aliquet risus feugiat in.\n",
+                                "createdAt": "2023-12-27T09:39:35.434Z",
+                                "updatedAt": "2024-01-22T10:05:41.347Z",
+                                "publishedAt": "2023-12-27T09:40:30.298Z",
+                                "locale": "en",
+                                "slug": "be-proud-to-be-zewailian-community",
+                                "endDate": "06:15:00.000"
+                              }
+                            },
+                            {
+                              "id": 4,
+                              "attributes": {
+                                "title": "Be proud to be zewailian city",
+                                "date": "2023-08-23T00:00:00.000Z",
+                                "contactNumber": "01111111111",
+                                "contactEmail": "test@gmail.com",
+                                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt eget nullam non nisi. Pretium aenean pharetra magna ac placerat vestibulum lectus mauris. Ultricies lacus sed turpis tincidunt id aliquet risus feugiat in.\n",
+                                "createdAt": "2023-12-27T09:40:13.457Z",
+                                "updatedAt": "2024-01-22T10:05:30.221Z",
+                                "publishedAt": "2023-12-27T09:40:19.165Z",
+                                "locale": "en",
+                                "slug": "be-proud-to-be-zewailian-city",
+                                "endDate": "05:00:00.000"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "id": 1,
+                        "__component": "pcomp.research-news",
+                        "title": "research News ",
+                        "description": "The City Overview Founder Statement's ZC Tour City Structure Giving ZC Careers At ZC Students The City's Overview\nFounder's Statement's",
+                        "button": { "id": 12, "theme": "contained" },
+                        "news": {
+                          "data": [
+                            {
+                              "id": 1,
+                              "attributes": {
+                                "title": "Artificial Intelligence Breakthrough",
+                                "date": "2023-08-23",
+                                "body": "In a significant advancement for the healthcare industry, researchers at the AI Healthcare Solutions Institute have introduced an AI-powered healthcare assistant that is poised to revolutionize patient care. This groundbreaking development promises to enhance medical diagnosis, streamline administrative tasks, and improve overall healthcare outcomes.\n\nThe AI healthcare assistant, named HealthBot, utilizes state-of-the-art machine learning algorithms and vast medical databases to provide real-time assistance to healthcare professionals. It can analyze complex medical data, assist in diagnosing illnesses, and recommend personalized treatment plans with remarkable accuracy.\n\nDr. Lisa Chang, the lead scientist on the project, explains, \"HealthBot is designed to work in tandem with healthcare providers, not replace them. It serves as a valuable tool, helping doctors and nurses make more informed decisions and providing patients with timely, personalized care.\"\n\nOne of HealthBot's notable features is its ability to predict disease outbreaks and identify potential health risks within communities. By analyzing patterns in medical data, it can alert healthcare authorities to emerging threats, enabling proactive measures to be taken in disease prevention and management.\n\nMoreover, HealthBot can streamline administrative tasks in healthcare facilities, such as appointment scheduling and billing. This allows healthcare professionals to spend more time with patients, improving the quality of care and reducing administrative overhead.\n\nThe introduction of AI-powered healthcare assistants like HealthBot has the potential to address critical challenges in the healthcare industry, such as physician shortages and the increasing complexity of medical data. It also holds promise for improving patient outcomes and reducing healthcare costs.\n\nWhile the adoption of AI in healthcare raises important ethical and privacy considerations, researchers are committed to developing safeguards to protect patient data and ensure the responsible use of this technology.\n\nAs HealthBot undergoes further testing and refinement, it represents a significant step toward a future where AI plays a central role in providing accessible, efficient, and high-quality healthcare for all.",
+                                "createdAt": "2023-12-27T09:41:22.622Z",
+                                "updatedAt": "2024-01-17T14:19:37.635Z",
+                                "publishedAt": "2023-12-27T09:41:28.664Z",
+                                "locale": "en",
+                                "slug": "artificial-intelligence-breakthrough"
+                              }
+                            },
+                            {
+                              "id": 2,
+                              "attributes": {
+                                "title": "Zewail City Signs a Cooperation Protocol with Egypt’s Ministry of Environment",
+                                "date": "2023-08-23",
+                                "body": "In a significant advancement for the healthcare industry, researchers at the AI Healthcare Solutions Institute have introduced an AI-powered healthcare assistant that is poised to revolutionize patient care. This groundbreaking development promises to enhance medical diagnosis, streamline administrative tasks, and improve overall healthcare outcomes.\n\nThe AI healthcare assistant, named HealthBot, utilizes state-of-the-art machine learning algorithms and vast medical databases to provide real-time assistance to healthcare professionals. It can analyze complex medical data, assist in diagnosing illnesses, and recommend personalized treatment plans with remarkable accuracy.\n\nDr. Lisa Chang, the lead scientist on the project, explains, \"HealthBot is designed to work in tandem with healthcare providers, not replace them. It serves as a valuable tool, helping doctors and nurses make more informed decisions and providing patients with timely, personalized care.\"\n\nOne of HealthBot's notable features is its ability to predict disease outbreaks and identify potential health risks within communities. By analyzing patterns in medical data, it can alert healthcare authorities to emerging threats, enabling proactive measures to be taken in disease prevention and management.\n\nMoreover, HealthBot can streamline administrative tasks in healthcare facilities, such as appointment scheduling and billing. This allows healthcare professionals to spend more time with patients, improving the quality of care and reducing administrative overhead.\n\nThe introduction of AI-powered healthcare assistants like HealthBot has the potential to address critical challenges in the healthcare industry, such as physician shortages and the increasing complexity of medical data. It also holds promise for improving patient outcomes and reducing healthcare costs.\n\nWhile the adoption of AI in healthcare raises important ethical and privacy considerations, researchers are committed to developing safeguards to protect patient data and ensure the responsible use of this technology.\n\nAs HealthBot undergoes further testing and refinement, it represents a significant step toward a future where AI plays a central role in providing accessible, efficient, and high-quality healthcare for all.",
+                                "createdAt": "2023-12-27T09:41:58.469Z",
+                                "updatedAt": "2024-01-17T14:25:41.737Z",
+                                "publishedAt": "2023-12-27T09:42:04.102Z",
+                                "locale": "en",
+                                "slug": "zewail-city-signs-a-cooperation-protocol-with-egypt-s-ministry-of-environment"
+                              }
+                            },
+                            {
+                              "id": 3,
+                              "attributes": {
+                                "title": "A Delegation from Paşabahçe Company for the Glass Industry on a visit to Zewail City",
+                                "date": "2023-08-23",
+                                "body": "In a significant advancement for the healthcare industry, researchers at the AI Healthcare Solutions Institute have introduced an AI-powered healthcare assistant that is poised to revolutionize patient care. This groundbreaking development promises to enhance medical diagnosis, streamline administrative tasks, and improve overall healthcare outcomes.\n\nThe AI healthcare assistant, named HealthBot, utilizes state-of-the-art machine learning algorithms and vast medical databases to provide real-time assistance to healthcare professionals. It can analyze complex medical data, assist in diagnosing illnesses, and recommend personalized treatment plans with remarkable accuracy.\n\nDr. Lisa Chang, the lead scientist on the project, explains, \"HealthBot is designed to work in tandem with healthcare providers, not replace them. It serves as a valuable tool, helping doctors and nurses make more informed decisions and providing patients with timely, personalized care.\"\n\nOne of HealthBot's notable features is its ability to predict disease outbreaks and identify potential health risks within communities. By analyzing patterns in medical data, it can alert healthcare authorities to emerging threats, enabling proactive measures to be taken in disease prevention and management.\n\nMoreover, HealthBot can streamline administrative tasks in healthcare facilities, such as appointment scheduling and billing. This allows healthcare professionals to spend more time with patients, improving the quality of care and reducing administrative overhead.\n\nThe introduction of AI-powered healthcare assistants like HealthBot has the potential to address critical challenges in the healthcare industry, such as physician shortages and the increasing complexity of medical data. It also holds promise for improving patient outcomes and reducing healthcare costs.\n\nWhile the adoption of AI in healthcare raises important ethical and privacy considerations, researchers are committed to developing safeguards to protect patient data and ensure the responsible use of this technology.\n\nAs HealthBot undergoes further testing and refinement, it represents a significant step toward a future where AI plays a central role in providing accessible, efficient, and high-quality healthcare for all.",
+                                "createdAt": "2023-12-27T09:42:19.815Z",
+                                "updatedAt": "2024-01-17T14:25:11.813Z",
+                                "publishedAt": "2023-12-27T09:42:52.380Z",
+                                "locale": "en",
+                                "slug": "a-delegation-from-pasabahce-company-for-the-glass-industry-on-a-visit-to-zewail-city"
+                              }
+                            },
+                            {
+                              "id": 4,
+                              "attributes": {
+                                "title": "IOP Selects Professor Obaya as Chair of the Quantum Electronics and Photonics",
+                                "date": "2023-08-23",
+                                "body": "In a significant advancement for the healthcare industry, researchers at the AI Healthcare Solutions Institute have introduced an AI-powered healthcare assistant that is poised to revolutionize patient care. This groundbreaking development promises to enhance medical diagnosis, streamline administrative tasks, and improve overall healthcare outcomes.\n\nThe AI healthcare assistant, named HealthBot, utilizes state-of-the-art machine learning algorithms and vast medical databases to provide real-time assistance to healthcare professionals. It can analyze complex medical data, assist in diagnosing illnesses, and recommend personalized treatment plans with remarkable accuracy.\n\nDr. Lisa Chang, the lead scientist on the project, explains, \"HealthBot is designed to work in tandem with healthcare providers, not replace them. It serves as a valuable tool, helping doctors and nurses make more informed decisions and providing patients with timely, personalized care.\"\n\nOne of HealthBot's notable features is its ability to predict disease outbreaks and identify potential health risks within communities. By analyzing patterns in medical data, it can alert healthcare authorities to emerging threats, enabling proactive measures to be taken in disease prevention and management.\n\nMoreover, HealthBot can streamline administrative tasks in healthcare facilities, such as appointment scheduling and billing. This allows healthcare professionals to spend more time with patients, improving the quality of care and reducing administrative overhead.\n\nThe introduction of AI-powered healthcare assistants like HealthBot has the potential to address critical challenges in the healthcare industry, such as physician shortages and the increasing complexity of medical data. It also holds promise for improving patient outcomes and reducing healthcare costs.\n\nWhile the adoption of AI in healthcare raises important ethical and privacy considerations, researchers are committed to developing safeguards to protect patient data and ensure the responsible use of this technology.\n\nAs HealthBot undergoes further testing and refinement, it represents a significant step toward a future where AI plays a central role in providing accessible, efficient, and high-quality healthcare for all.",
+                                "createdAt": "2023-12-27T09:42:37.470Z",
+                                "updatedAt": "2024-01-17T14:24:42.504Z",
+                                "publishedAt": "2023-12-27T09:42:43.008Z",
+                                "locale": "en",
+                                "slug": "iop-selects-professor-obaya-as-chair-of-the-quantum-electronics-and-photonics"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "id": 1,
+                        "__component": "pcomp.campus-life",
+                        "sectionHeader": { "id": 4, "title": "campus life" },
+                        "facilities": [
+                          { "id": 1 },
+                          { "id": 2 },
+                          { "id": 3 },
+                          { "id": 4 }
+                        ],
+                        "more": { "id": 1 }
+                      },
+                      {
+                        "id": 1,
+                        "__component": "pcomp.statistics",
+                        "title": "Zewail City in Numbers",
+                        "description": "Lorem Ipsum dolor sit amet, qui atem. Concateur adispling elot. Vienam",
+                        "statistics": [
+                          {
+                            "id": 1,
+                            "brief": "Number of Enrolled Bachelor",
+                            "intNumber": 1000
+                          },
+                          {
+                            "id": 2,
+                            "brief": "Number of Enrolled Bachelor",
+                            "intNumber": 1200
+                          },
+                          {
+                            "id": 3,
+                            "brief": "Number of Enrolled Bachelor",
+                            "intNumber": 1100
+                          },
+                          {
+                            "id": 4,
+                            "brief": "Number of Enrolled Bachelor",
+                            "intNumber": 3200
+                          }
+                        ]
+                      },
+                      {
+                        "id": 1,
+                        "__component": "pcomp.video-carousel",
+                        "title": "Be proud to be zewailian",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "button": { "id": 18, "theme": "contained" },
+                        "mediaLinks": [
+                          {
+                            "id": 1,
+                            "mainTitle": "SicYodbx6wk",
+                            "link": "https://www.youtube.com/embed/SicYodbx6wk"
+                          },
+                          {
+                            "id": 2,
+                            "mainTitle": "V8TJ8lcTmN8",
+                            "link": "https://www.youtube.com/embed/V8TJ8lcTmN8"
+                          },
+                          {
+                            "id": 3,
+                            "mainTitle": "6Tq6AQ3ZAjw",
+                            "link": "https://www.youtube.com/embed/6Tq6AQ3ZAjw"
+                          }
+                        ]
+                      }
+                    ],
+                    "localizations": { "data": [] }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "id": 1,
+            "__component": "pcomp.catalog",
+            "title": "EXPERIENCE CAMPUS",
+            "description": "Come to campus and take the official tour. Visit us virtually. Or come to see us at a high school event or college fair. You’ll find that ZC is a place that’s both serious and eclectic, with groundbreaking teaching and a coolness factor that’s off the charts.",
+            "imageOrder": "image-right",
+            "isRounded": null,
+            "image": {
+              "data": {
+                "id": 25,
+                "attributes": {
+                  "name": "Screenshot 2023-12-11 153856.png",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 388,
+                  "height": 418,
+                  "formats": {
+                    "thumbnail": {
+                      "ext": ".png",
+                      "url": "/uploads/thumbnail_Screenshot_2023_12_11_153856_21d70f6b82.png",
+                      "hash": "thumbnail_Screenshot_2023_12_11_153856_21d70f6b82",
+                      "mime": "image/png",
+                      "name": "thumbnail_Screenshot 2023-12-11 153856.png",
+                      "path": null,
+                      "size": 30.37,
+                      "width": 145,
+                      "height": 156
+                    }
+                  },
+                  "hash": "Screenshot_2023_12_11_153856_21d70f6b82",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "size": 33.16,
+                  "url": "/uploads/Screenshot_2023_12_11_153856_21d70f6b82.png",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2023-12-28T08:31:27.550Z",
+                  "updatedAt": "2023-12-28T08:31:27.550Z"
+                }
+              }
+            },
+            "button": [
+              {
+                "id": 25,
+                "theme": "contained",
+                "link": {
+                  "id": 26,
+                  "label": "Read more ",
+                  "target": {
+                    "data": {
+                      "id": 89,
+                      "attributes": {
+                        "title": "Events",
+                        "slug": "events",
+                        "createdAt": "2024-01-21T14:30:09.906Z",
+                        "updatedAt": "2024-01-28T11:11:41.915Z"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "localizations": { "data": [] }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": { "page": 1, "pageSize": 25, "pageCount": 1, "total": 1 }
+  }
+}

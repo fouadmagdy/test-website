@@ -1,0 +1,28 @@
+@media (min-width: 768px) {
+  .beProudZewailian .swiper-wrapper {
+    align-items: center;
+  }
+}
+
+/* Customize Swiper Navigation Arrows */
+.swiper-button-prev,
+.swiper-button-next {
+  color: #00b4d1;
+}
+
+.swiper-button-prev::after {
+  content: 'prev';
+  width: 100%;
+  font-size: 20px !important;
+}
+.swiper-button-next::after {
+  content: 'next';
+  width: 100%;
+  font-size: 20px !important;
+}
+.swiper-button-prev {
+  inset-inline-start: 10px !important;
+}
+.swiper-button-next {
+  inset-inline-end: -5px !important;
+}

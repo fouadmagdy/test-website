@@ -1,0 +1,335 @@
+{
+  "data": [
+    {
+      "id": 21,
+      "attributes": {
+        "title": "Boardof Trustees",
+        "createdAt": "2024-01-17T09:53:21.814Z",
+        "updatedAt": "2024-01-17T09:53:23.276Z",
+        "publishedAt": "2024-01-17T09:53:23.255Z",
+        "locale": "en",
+        "slug": "boardoftrustees",
+        "category": "global",
+        "seo": null,
+        "Content": [
+          {
+            "id": 1,
+            "__component": "pcomp.mem-count-s",
+            "title": "Board of Trustees",
+            "members": {
+              "data": [
+                {
+                  "id": 2,
+                  "attributes": {
+                    "name": "Dr. Mohamed Elhadidy",
+                    "description": "Professor, Biomedical sciences Program, Director of Center for Microbiology and Phage Therapy (CMP) and Center for Scientific Excellence for Food Research and Analysis (cSEFRA)",
+                    "email": "melhadidy@zewailcity.edu.eg",
+                    "createdAt": "2024-01-17T09:47:16.952Z",
+                    "updatedAt": "2024-01-17T12:08:23.312Z",
+                    "publishedAt": "2024-01-17T09:47:17.941Z",
+                    "locale": "en",
+                    "image": {
+                      "data": {
+                        "id": 20,
+                        "attributes": {
+                          "name": "EP.png",
+                          "alternativeText": null,
+                          "caption": null,
+                          "width": 477,
+                          "height": 462,
+                          "formats": {
+                            "thumbnail": {
+                              "ext": ".png",
+                              "url": "/uploads/thumbnail_EP_7713d3aaae.png",
+                              "hash": "thumbnail_EP_7713d3aaae",
+                              "mime": "image/png",
+                              "name": "thumbnail_EP.png",
+                              "path": null,
+                              "size": 55.48,
+                              "width": 161,
+                              "height": 156
+                            }
+                          },
+                          "hash": "EP_7713d3aaae",
+                          "ext": ".png",
+                          "mime": "image/png",
+                          "size": 72.36,
+                          "url": "/uploads/EP_7713d3aaae.png",
+                          "previewUrl": null,
+                          "provider": "local",
+                          "provider_metadata": null,
+                          "createdAt": "2023-12-28T08:25:19.917Z",
+                          "updatedAt": "2024-01-03T12:32:02.999Z"
+                        }
+                      }
+                    },
+                    "categories": {
+                      "data": [
+                        {
+                          "id": 3,
+                          "attributes": {
+                            "name": "External ",
+                            "createdAt": "2024-01-04T14:38:39.884Z",
+                            "updatedAt": "2024-01-08T10:09:35.092Z",
+                            "publishedAt": "2024-01-08T10:09:34.876Z",
+                            "slug": "external",
+                            "locale": "en",
+                            "localizations": { "data": [] }
+                          }
+                        },
+                        {
+                          "id": 2,
+                          "attributes": {
+                            "name": "Internal",
+                            "createdAt": "2024-01-04T14:36:14.635Z",
+                            "updatedAt": "2024-01-04T14:37:52.260Z",
+                            "publishedAt": "2024-01-04T14:36:19.709Z",
+                            "slug": "internal",
+                            "locale": "en",
+                            "localizations": { "data": [] }
+                          }
+                        },
+                        {
+                          "id": 1,
+                          "attributes": {
+                            "name": "Academic",
+                            "createdAt": "2024-01-04T14:35:27.224Z",
+                            "updatedAt": "2024-01-04T14:38:02.687Z",
+                            "publishedAt": "2024-01-04T14:35:34.785Z",
+                            "slug": "academic",
+                            "locale": "en",
+                            "localizations": { "data": [] }
+                          }
+                        }
+                      ]
+                    },
+                    "localizations": { "data": [] }
+                  }
+                },
+                {
+                  "id": 1,
+                  "attributes": {
+                    "name": "Dr. Ayman El-Shibiny",
+                    "description": "Professor, Biomedical sciences Program, Director of Center for Microbiology and Phage Therapy (CMP) and Center for Scientific Excellence for Food Research and Analysis (cSEFRA)",
+                    "email": "melhadidy@zewailcity.edu.eg",
+                    "createdAt": "2024-01-17T09:46:17.121Z",
+                    "updatedAt": "2024-01-17T09:46:20.231Z",
+                    "publishedAt": "2024-01-17T09:46:20.222Z",
+                    "locale": "en",
+                    "image": {
+                      "data": {
+                        "id": 31,
+                        "attributes": {
+                          "name": "Dr._Mohamed_ElHadidy_elected_as_a_member_in_executive_committee_GYA.jpeg",
+                          "alternativeText": null,
+                          "caption": null,
+                          "width": 1280,
+                          "height": 994,
+                          "formats": {
+                            "thumbnail": {
+                              "ext": ".jpeg",
+                              "url": "/uploads/thumbnail_Dr_Mohamed_El_Hadidy_elected_as_a_member_in_executive_committee_GYA_aa0d16db25.jpeg",
+                              "hash": "thumbnail_Dr_Mohamed_El_Hadidy_elected_as_a_member_in_executive_committee_GYA_aa0d16db25",
+                              "mime": "image/jpeg",
+                              "name": "thumbnail_Dr._Mohamed_ElHadidy_elected_as_a_member_in_executive_committee_GYA.jpeg",
+                              "path": null,
+                              "size": 5.96,
+                              "width": 201,
+                              "height": 156
+                            }
+                          },
+                          "hash": "Dr_Mohamed_El_Hadidy_elected_as_a_member_in_executive_committee_GYA_aa0d16db25",
+                          "ext": ".jpeg",
+                          "mime": "image/jpeg",
+                          "size": 140.65,
+                          "url": "/uploads/Dr_Mohamed_El_Hadidy_elected_as_a_member_in_executive_committee_GYA_aa0d16db25.jpeg",
+                          "previewUrl": null,
+                          "provider": "local",
+                          "provider_metadata": null,
+                          "createdAt": "2024-01-17T09:45:01.007Z",
+                          "updatedAt": "2024-01-17T09:45:01.007Z"
+                        }
+                      }
+                    },
+                    "categories": {
+                      "data": [
+                        {
+                          "id": 1,
+                          "attributes": {
+                            "name": "Academic",
+                            "createdAt": "2024-01-04T14:35:27.224Z",
+                            "updatedAt": "2024-01-04T14:38:02.687Z",
+                            "publishedAt": "2024-01-04T14:35:34.785Z",
+                            "slug": "academic",
+                            "locale": "en",
+                            "localizations": { "data": [] }
+                          }
+                        },
+                        {
+                          "id": 3,
+                          "attributes": {
+                            "name": "External ",
+                            "createdAt": "2024-01-04T14:38:39.884Z",
+                            "updatedAt": "2024-01-08T10:09:35.092Z",
+                            "publishedAt": "2024-01-08T10:09:34.876Z",
+                            "slug": "external",
+                            "locale": "en",
+                            "localizations": { "data": [] }
+                          }
+                        }
+                      ]
+                    },
+                    "localizations": { "data": [] }
+                  }
+                },
+                {
+                  "id": 3,
+                  "attributes": {
+                    "name": "Dr. Ayman El-Shibiny",
+                    "description": "Professor, Biomedical sciences Program, Director of Center for Microbiology and Phage Therapy (CMP) and Center for Scientific Excellence for Food Research and Analysis (cSEFRA)",
+                    "email": "melhadidy@zewailcity.edu.eg",
+                    "createdAt": "2024-01-17T09:47:45.364Z",
+                    "updatedAt": "2024-01-17T12:07:37.268Z",
+                    "publishedAt": "2024-01-17T09:47:47.938Z",
+                    "locale": "en",
+                    "image": {
+                      "data": {
+                        "id": 19,
+                        "attributes": {
+                          "name": "Chairman.png",
+                          "alternativeText": null,
+                          "caption": null,
+                          "width": 527,
+                          "height": 506,
+                          "formats": {
+                            "small": {
+                              "ext": ".png",
+                              "url": "/uploads/small_Chairman_7bd1dea48d.png",
+                              "hash": "small_Chairman_7bd1dea48d",
+                              "mime": "image/png",
+                              "name": "small_Chairman.png",
+                              "path": null,
+                              "size": 467.54,
+                              "width": 500,
+                              "height": 480
+                            },
+                            "thumbnail": {
+                              "ext": ".png",
+                              "url": "/uploads/thumbnail_Chairman_7bd1dea48d.png",
+                              "hash": "thumbnail_Chairman_7bd1dea48d",
+                              "mime": "image/png",
+                              "name": "thumbnail_Chairman.png",
+                              "path": null,
+                              "size": 61.74,
+                              "width": 162,
+                              "height": 156
+                            }
+                          },
+                          "hash": "Chairman_7bd1dea48d",
+                          "ext": ".png",
+                          "mime": "image/png",
+                          "size": 93.97,
+                          "url": "/uploads/Chairman_7bd1dea48d.png",
+                          "previewUrl": null,
+                          "provider": "local",
+                          "provider_metadata": null,
+                          "createdAt": "2023-12-28T08:24:42.876Z",
+                          "updatedAt": "2023-12-28T08:24:42.876Z"
+                        }
+                      }
+                    },
+                    "categories": {
+                      "data": [
+                        {
+                          "id": 1,
+                          "attributes": {
+                            "name": "Academic",
+                            "createdAt": "2024-01-04T14:35:27.224Z",
+                            "updatedAt": "2024-01-04T14:38:02.687Z",
+                            "publishedAt": "2024-01-04T14:35:34.785Z",
+                            "slug": "academic",
+                            "locale": "en",
+                            "localizations": { "data": [] }
+                          }
+                        }
+                      ]
+                    },
+                    "localizations": { "data": [] }
+                  }
+                },
+                {
+                  "id": 4,
+                  "attributes": {
+                    "name": "Dr. Ayman El-Shibiny",
+                    "description": "Professor, Biomedical sciences Program, Director of Center for Microbiology and Phage Therapy (CMP) and Center for Scientific Excellence for Food Research and Analysis (cSEFRA)",
+                    "email": "melhadidy@zewailcity.edu.eg",
+                    "createdAt": "2024-01-17T09:48:08.577Z",
+                    "updatedAt": "2024-01-17T09:48:09.639Z",
+                    "publishedAt": "2024-01-17T09:48:09.631Z",
+                    "locale": "en",
+                    "image": {
+                      "data": {
+                        "id": 31,
+                        "attributes": {
+                          "name": "Dr._Mohamed_ElHadidy_elected_as_a_member_in_executive_committee_GYA.jpeg",
+                          "alternativeText": null,
+                          "caption": null,
+                          "width": 1280,
+                          "height": 994,
+                          "formats": {
+                            "thumbnail": {
+                              "ext": ".jpeg",
+                              "url": "/uploads/thumbnail_Dr_Mohamed_El_Hadidy_elected_as_a_member_in_executive_committee_GYA_aa0d16db25.jpeg",
+                              "hash": "thumbnail_Dr_Mohamed_El_Hadidy_elected_as_a_member_in_executive_committee_GYA_aa0d16db25",
+                              "mime": "image/jpeg",
+                              "name": "thumbnail_Dr._Mohamed_ElHadidy_elected_as_a_member_in_executive_committee_GYA.jpeg",
+                              "path": null,
+                              "size": 5.96,
+                              "width": 201,
+                              "height": 156
+                            }
+                          },
+                          "hash": "Dr_Mohamed_El_Hadidy_elected_as_a_member_in_executive_committee_GYA_aa0d16db25",
+                          "ext": ".jpeg",
+                          "mime": "image/jpeg",
+                          "size": 140.65,
+                          "url": "/uploads/Dr_Mohamed_El_Hadidy_elected_as_a_member_in_executive_committee_GYA_aa0d16db25.jpeg",
+                          "previewUrl": null,
+                          "provider": "local",
+                          "provider_metadata": null,
+                          "createdAt": "2024-01-17T09:45:01.007Z",
+                          "updatedAt": "2024-01-17T09:45:01.007Z"
+                        }
+                      }
+                    },
+                    "categories": {
+                      "data": [
+                        {
+                          "id": 3,
+                          "attributes": {
+                            "name": "External ",
+                            "createdAt": "2024-01-04T14:38:39.884Z",
+                            "updatedAt": "2024-01-08T10:09:35.092Z",
+                            "publishedAt": "2024-01-08T10:09:34.876Z",
+                            "slug": "external",
+                            "locale": "en",
+                            "localizations": { "data": [] }
+                          }
+                        }
+                      ]
+                    },
+                    "localizations": { "data": [] }
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "localizations": { "data": [] }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": { "page": 1, "pageSize": 25, "pageCount": 1, "total": 1 }
+  }
+}

@@ -1,0 +1,52 @@
+.DayPicker {
+    flex-direction: row;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    width: 50%;
+    height: 100%;
+}
+
+
+@media(max-width:1286px){
+    .DayPicker {
+        font-size: 14px;   
+    }
+}
+
+@media(max-width:767px){
+    .DayPicker {
+        font-size: 14.2px;   
+    }
+}
+@media only screen and (max-width: 1200px) and (min-width: 768px){
+    .DayPicker{
+        font-size: 12px;
+    }
+}
+
+.DayPicker-wrapper {
+    position: relative;
+    flex-direction: row;
+    user-select: none;
+    width: 90%;
+    margin: 0;
+    padding: 0;
+}
+
+.DayPicker-Months {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+}
+
+.DayPicker-Month {
+    display: table;
+    margin: 0;
+    padding: 0;
+    margin-top: auto;
+    border-spacing: 0;
+    border-collapse: collapse;
+    user-select: none;
+}

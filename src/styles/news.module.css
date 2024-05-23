@@ -1,0 +1,5 @@
+@media (width > 1022px) {
+  .gridWrapper {
+    grid-template-rows: 325px 325px;
+  }
+}
