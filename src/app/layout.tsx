@@ -2,6 +2,7 @@
 entire application and provides common layout elements such as the head section, navigation bar, and
 footer. */
 import '@/styles/globals.css';
+import { SpeedInsights } from '@vercel/speed-insights/next';
 import type { Metadata } from 'next';
 import dynamic from 'next/dynamic';
 import { GoogleAnalytics } from '@next/third-parties/google';
@@ -96,11 +97,12 @@ const RootLayout = async ({ children }: LayoutProps): Promise<JSX.Element> => {
         <Script src="/src/sienna.min.js" defer />
       </body>
       <GoogleAnalytics gaId="G-TFG76D2D6Y" />
-      {/* <Script
+      <Script
         async
         src={`https://cse.google.com/cse.js?cx=${process.env.NEXT_GOOGLE_SEARCH_ENGINE_ID}`}
         defer
-      ></Script> */}
+      ></Script>
+      <SpeedInsights />
     </html>
   );
 };
