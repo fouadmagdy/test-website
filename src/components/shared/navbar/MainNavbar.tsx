@@ -48,7 +48,7 @@ const MainNavbar = ({ navbarData, localeFromServer }: NavbarProps) => {
         <div
           className={`flex items-center justify-between text-blue-gray-900  `}
         >
-          <Link href="/" className="mr-4 cursor-pointer  font-medium">
+          <a href="/" className="mr-4 cursor-pointer  font-medium">
             {small ? (
               <Image
                 src={'/Images/zcLogoSecond.svg'}
@@ -74,7 +74,7 @@ const MainNavbar = ({ navbarData, localeFromServer }: NavbarProps) => {
                 height={100}
               />
             )}
-          </Link>
+          </a>
 
           <div className="text-center bg-white py-4 hidden lg:block">
             <div className="container mx-auto">
