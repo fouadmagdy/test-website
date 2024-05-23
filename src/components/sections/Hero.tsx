@@ -72,7 +72,11 @@ const Hero: React.FC<HeroProps> = ({ content }) => {
             width={700}
             height={700}
             priority
-            alt={content?.image?.data?.attributes?.alternativeText || ''}
+            alt={
+              content?.image?.data?.attributes?.alternativeText ||
+              'zewail city pic'
+            }
+            loading="lazy"
             src={`${process.env.NEXT_PUBLIC_STRAPI_URL}${content?.image.data?.attributes.url}`}
           />
         )}
